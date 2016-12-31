@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DropIt/DropItView.swift"
+            timestampString = "504863302.330512"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "DropItView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropIt.DropItView.((attachment in _1590571E01C56189AF10F3ABD095FBAE).didset : Swift.Optional&lt;__ObjC.UIAttachmentBehavior&gt;).(closure #1)"
+                  moduleName = "DropIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaorui/Desktop/iOS%E7%A8%8B%E5%BA%8F/DropIt/DropIt/DropItView.swift"
+                  timestampString = "504863302.335589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropIt.DropItView.((attachment in _1590571E01C56189AF10F3ABD095FBAE).didset : Swift.Optional&lt;__ObjC.UIAttachmentBehavior&gt;).(closure #1)"
+                  moduleName = "DropIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaorui/Desktop/iOS%E7%A8%8B%E5%BA%8F/DropIt/DropIt/DropItView.swift"
+                  timestampString = "504863302.33758"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
